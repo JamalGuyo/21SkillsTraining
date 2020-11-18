@@ -8,13 +8,9 @@ Content
 
 ## Basic information
 
-### Name
+**Name:** Jamal Guyo
 
-Jamal Guyo
-
-### Title
-
-Software Developer
+**Title:** Software Developer
 
 ---
 
